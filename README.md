@@ -71,10 +71,6 @@ python app.py
 
 This project was created for learning and implementing cybersecurity and machine learning concepts in a real-world application.
 
-## Author
-
-Your Name
-
 ## License
 
 This project is open-source and available under the MIT License.
